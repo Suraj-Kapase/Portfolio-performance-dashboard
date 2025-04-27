@@ -34,7 +34,8 @@ It provides clear insights into the portfolio’s value, sector distribution, st
 
 - Power BI Desktop
 - Data Modeling (Relationships, DAX)
-- Visualizations (Bar charts, Line charts, Pie charts, Card KPIs)
+- Visualizations (Bar charts, Line charts, Pie charts, Card KPIs, filters)
+- Power Query (Data transfer, Grouping, Merge Query etc)
 
 ## Dashboard Preview
 ## How to Use
@@ -46,6 +47,6 @@ It provides clear insights into the portfolio’s value, sector distribution, st
 ## Skills Demonstrated
 
 - Data cleaning and transformation
-- DAX calculations for returns and weights
+- DAX calculations, power query for returns and weights
 - Time series analysis
 - Building interactive dashboards for financial analysis
